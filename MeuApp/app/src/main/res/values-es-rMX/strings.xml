@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flamengudo</string>
+    <string name="Welcome">Flamengo</string>
+    <string name="WelcomeButtonText" translatable="false">El mayor!</string>
+    <string name="WelcomeToast" translatable="false">Afuera VP</string>
+    <string name="welcomeButton2" translatable="false">Cambiar imagen</string>
+</resources>
+
+
+

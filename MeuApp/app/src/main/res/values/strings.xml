@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flamengudo</string>
+    <string name="Welcome">Flamengo</string>
+    <string name="WelcomeButtonText">O maior!</string>
+    <string name="WelcomeToast">Fora VP</string>
+    <string name="welcomeButton2">Trocar Imagem</string>
+
+</resources>
